@@ -14,11 +14,11 @@ http://www.austlii.edu.au/cgi-bin/viewdb/au/legis/vic/consol_reg/tolr2016300/
 - Reference to fee units - Gazetted annually by Treasury & Finance
 
 ## Formulas
-x = dutiable value
-d = duty
-t = transfer fees
-r = mortgage registration and discharge fees
-f = fee unit (14.22)
+- x = dutiable value
+- d = duty
+- t = transfer fees
+- r = mortgage registration and discharge fees
+- f = fee unit (14.22)
 
 ### 1) Standard rates of duty under section 28 Duties Act 2000 (Vic)
 - where 0 < x <= 25000; d = x * 0.014
